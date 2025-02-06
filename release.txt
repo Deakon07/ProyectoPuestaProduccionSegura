@@ -1,2 +1,3 @@
 Preparando versión 1.1.0
 Correcciones en versión 1.1.0
+Documentación para 1.1.0
