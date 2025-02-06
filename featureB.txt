@@ -1,2 +1,3 @@
 Funcionalidad A
 Funcionalidad B
+Funcionalidad C
