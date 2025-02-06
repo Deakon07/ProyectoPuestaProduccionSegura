@@ -1,2 +1,3 @@
 Corrigiendo bug crítico
 Mejorando corrección
+Testeo del fix
